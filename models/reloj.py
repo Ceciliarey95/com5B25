@@ -1,0 +1,2 @@
+class Reloj:
+    pass
